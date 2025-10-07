@@ -1,0 +1,16 @@
+C:\Users\Bener\source\repos\games\games\bin\Release\net8.0-windows\games.exe
+C:\Users\Bener\source\repos\games\games\bin\Release\net8.0-windows\games.deps.json
+C:\Users\Bener\source\repos\games\games\bin\Release\net8.0-windows\games.runtimeconfig.json
+C:\Users\Bener\source\repos\games\games\bin\Release\net8.0-windows\games.dll
+C:\Users\Bener\source\repos\games\games\bin\Release\net8.0-windows\games.pdb
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\MyKeyLogger.Form1.resources
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\games.csproj.GenerateResource.cache
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\games.AssemblyInfoInputs.cache
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\games.AssemblyInfo.cs
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\games.csproj.CoreCompileInputs.cache
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\games.dll
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\refint\games.dll
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\games.pdb
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\games.genruntimeconfig.cache
+C:\Users\Bener\source\repos\games\games\obj\Release\net8.0-windows\ref\games.dll
